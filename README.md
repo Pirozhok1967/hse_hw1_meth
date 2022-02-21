@@ -47,3 +47,7 @@ plt.title("Распределение метилирования ICM", fontsize=
 plt.hist(df3[3], bins=100, density=True)
 plt.show()
 ```
+f) Метилирование:![image](https://user-images.githubusercontent.com/34075090/155022244-39082b14-8b34-46b9-9a75-01ee0d2cc033.png)
+<br>
+Покрытие:![image2](https://user-images.githubusercontent.com/34075090/155022254-8de8cce2-5964-4f7e-b72b-36304d0604df.png)
+
